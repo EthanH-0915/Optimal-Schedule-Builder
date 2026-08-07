@@ -1,5 +1,10 @@
 # Optimal-Schedule-Builder
 
+> [!NOTE]
+> **This repository is archived.** Active development has moved to the DevDogs monorepo at
+> [github.com/DevDogsUGA/DevDogsUGA](https://github.com/DevDogsUGA/DevDogsUGA). This repo is kept
+> for historical reference only — please open issues and pull requests in the monorepo instead.
+
 DevDogs' inaugural, 2024-2025 project: an optimal schedule-building website for UGA students.
 
 ## Welcome to the DevDogs Optimal Schedule Builder project!
